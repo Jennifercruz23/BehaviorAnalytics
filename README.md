@@ -1,2 +1,1 @@
-# BehaviorAnalytics
-Professional BehaviorAnalytics infrastructure with BehaviorAnalytics-optimized modern-design and enterprise behavioranalytics-optimization capabilities
+.
